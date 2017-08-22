@@ -39,6 +39,5 @@
 #'  of quantification}
 #' }
 #'
-#' @export
 "atlas"
 

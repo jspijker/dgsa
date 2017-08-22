@@ -14,6 +14,5 @@
 #'  \item{label} {a more descriptive label}
 #' }
 #'
-#' @export
 "atlasmeta"
 
