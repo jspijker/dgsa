@@ -12,6 +12,8 @@
 #' @examples
 #' p <- distribution("xrfal2o3")
 #' print(p)
+#'
+#' @export
 
 
 

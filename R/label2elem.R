@@ -14,6 +14,8 @@
 #' @examples
 #' label2elem("Al total")
 #' # returns "xrfal2o3"
+#'
+#' @export
 label2elem <- function(label) {
 
     label.in <- label

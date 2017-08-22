@@ -13,5 +13,7 @@
 #'  \item{unit} {unit of measurement}
 #'  \item{label} {a more descriptive label}
 #' }
+#'
+#' @export
 "atlasmeta"
 

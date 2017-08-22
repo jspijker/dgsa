@@ -14,6 +14,8 @@
 #' print(p)
 #' p <- scatterplot("xrfal2o3","xrfcu",topsub=TRUE)
 #' print(p)
+#'
+#' @export
 
 scatterplot <- function(x,y,topsub=FALSE) {
 

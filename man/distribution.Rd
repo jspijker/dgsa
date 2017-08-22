@@ -21,4 +21,5 @@ statistical distribution of the data.
 \examples{
 p <- distribution("xrfal2o3")
 print(p)
+
 }

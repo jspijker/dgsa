@@ -26,4 +26,5 @@ argument in the \code{aes} function.
 \examples{
 p <- map("xrfal2o3")
 print(p)
+
 }

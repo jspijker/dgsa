@@ -25,4 +25,5 @@ p <- scatterplot("xrfal2o3","xrfcu")
 print(p)
 p <- scatterplot("xrfal2o3","xrfcu",topsub=TRUE)
 print(p)
+
 }

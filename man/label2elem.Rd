@@ -25,4 +25,5 @@ Total) into the name of the field (e.g. xrfal2o3).
 \examples{
 label2elem("Al total")
 # returns "xrfal2o3"
+
 }

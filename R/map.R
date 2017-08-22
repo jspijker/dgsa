@@ -18,6 +18,8 @@
 #' @examples
 #' p <- map("xrfal2o3")
 #' print(p)
+#'
+#' @export
 
 
 map <- function(x) {

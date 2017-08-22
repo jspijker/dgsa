@@ -38,5 +38,7 @@
 #'  \item{log....} {is value below (<), within (=) or above (>) limit
 #'  of quantification}
 #' }
+#'
+#' @export
 "atlas"
 
