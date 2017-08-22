@@ -1,0 +1,10 @@
+Package: dgsa
+Type: Package
+Title: Dutch Geochemical Soil Atlas, Data and Functions.
+Version: 0.1.0
+Author: Job Spijker [aut, cre]
+Maintainer: Job Spijker <job.spijker@rivm.nl>
+Description: This package contains the data of the Dutch Geochemical Soil Atlas, together with some functions to visualise the data. 
+License: to be determined
+LazyData: TRUE
+RoxygenNote: 6.0.1
